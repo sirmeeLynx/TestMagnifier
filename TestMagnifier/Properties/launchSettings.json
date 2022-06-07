@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestMagnifier": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
